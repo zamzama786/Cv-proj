@@ -1,0 +1,25 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    display: flex;
+    border: 2px solid black;
+    height: 70rem;
+    width: 100%;
+}
+hr {
+    border: 1px solid black;
+    width: 70rem;
+}
+header{
+    padding: 40px;
+}
+h2{
+    color: orange;
+}
+
+span {
+    font-size: 20px;
+    color: #0ec6df;
+}
